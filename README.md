@@ -1,0 +1,1 @@
+# -jointure-table-active-record-rails
